@@ -1,0 +1,13 @@
+Hello! Thank you for coming to view my app. 
+
+I created this app for a project at the New York City Data Science Academy. Due to my limited experience with R, the first 
+few versions of this app have many bugs, and often don't work as intended at all. But I will continue to update this app and 
+make it functional so that I and others can use it as they like!
+
+Please refer to global.R, server.R, and ui.R for the code used. 
+
+The .csv files are the data that I used 
+
+And the ppt. presentations is what I presented to the class. 
+
+The other files in here are just pictures that I used in the powerpoint presentaiton. 
