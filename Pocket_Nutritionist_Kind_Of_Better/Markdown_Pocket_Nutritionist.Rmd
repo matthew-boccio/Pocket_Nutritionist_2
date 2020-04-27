@@ -1,0 +1,28 @@
+---
+title: "Markdown_For_Pocket_Nutritionist"
+author: "Matt Boccio"
+date: "4/26/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Project Summary
+
+Please see my github for all code committed to this project: 
+
+ <https://github.com/matthew-boccio/Pocket_Nutritionist_2>.
+
+When I envisioned the idea for this project, I was in the middle of my own personal committment to weight loss. I had decided to use my time unemployed and in quarantine to exercise and eat right, with the goal of losing 50 pounds by year end. But as I was planning my weekly meals, I found it inconvenient to find direct nutritional information on unlabeled fresh produce. Everything that seemed healthy - from fresh fruits and vegetables, to fresh baked home made bread, to good cuts of meat from a butcher shop - had no dietary information on it, like processed foods do. The information was there if you looked it up, but conducting searches for each item and going through various conflicting sources was tiresome at best. 
+
+I know I'm not alone in my journey to lose weight, as over 50% of the country is currently overweight or obese. So I designed this app to help myself and anyone looking to eat healthier get instant access to nutritional info about fresh, healthy food, and plan out a diet that fits their needs. 
+
+The first thing I wanted to do was to display to users if a food they wanted to eat was more calorie rich or calorie poor than that of the rest of the category. If someone wanted to pick a meat that had less fat, or a bread that had less sugar, for example, they could do so with this comparison. I created a system where users could input a specific food, and then see how its macronutrient content compares to that of the greater category. In future iterations, I want to include a seperate graph on the same page but with different vitamins and nutrients. 
+
+The second thing I wanted to do was help users plan a diet with the inputs they used. The intent was to create a way for users to commit their choices from the first tab into as separate data frame, and have the graph output display the total calories, broken up by calories by nutrient. It would also have a text output underneath, to show the total calories, so you can look at your inputs in relation to a 2000 calorie diet. In future iterations, I want to include an input panel so users can pick their age, gender, and level of physical activity so they can see their ideal calorie output. 
+
+With these two features, I think that it would be much more feasible to plan a healthy diet with natural, whole foods. From a personal perspective, sharing this app could help millions of Americans make sound nutritional choices. From a business perspective, integrating this app with a fitness planner or an exercize program could be an attractive feature that increases new user acquisition, or current user retention. 
+
+Although this app is far from finished, when it's fully developed I think it could be a powerful tool to helping anyone who uses it commit to healthy food choices. 
